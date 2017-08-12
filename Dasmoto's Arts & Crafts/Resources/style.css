@@ -1,0 +1,34 @@
+body{
+  font-family: Helvetica;
+}
+
+.header{
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("/Users/kristin/Desktop/Projects/Dasmoto's Arts & Crafts/Resources/Pictures/pattern.jpeg")
+}
+
+.banner{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes{
+  background-color: mediumspringgreen;
+}
+
+#frames{
+  background-color: lightcoral;
+}
+
+#paints{
+  background-color: skyblue;
+}
+
+a{
+  font-weight: bold;
+  color: blue;
+}
